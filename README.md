@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DorionBoesch
 - 👀 I’m interested in software development, artificial intelligence, and game development.
-- 🌱 I’m currently learning about godot as a game engine and refining my skills in Python, JavaScript, and Java.
+- 🌱 I’m currently finishing up my BS as well as working on a fullstack project
 - 💞️ I’m looking to collaborate on open-source projects related to AI, creating games, or anything that pushes the boundaries of technology.
 - 📫 How to reach me [dorionb.dev@gmail.com] or on linkedIn: https://www.linkedin.com/in/dorionboesch/
 - 😄 Pronouns: He/Him
